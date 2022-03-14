@@ -1,8 +1,8 @@
 const Oven = (props) => {
   return ( 
-    <>
-      <h3>Oven</h3>
-    </> 
+    <div>
+      <h4>Oven</h4>
+    </div> 
   );
 }
  
